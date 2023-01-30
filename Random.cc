@@ -2,7 +2,7 @@
 #include "/home/shoukat/PHSX815/PHSX815_Week2/include/Random.hh"
 
 ////////////////
-// Random class
+// Random class/Prof Rogan and Shoukat(I have added the last function)
 ////////////////
 // class to generate pseudo-random numbers
 
